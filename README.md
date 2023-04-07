@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/esdrasalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
- ### Main skills:
+ ### Main skills
 ![Java](https://img.shields.io/badge/-Java-FF7F00?style=for-the-badge&logo=Java&labelColor=FF7F00)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
