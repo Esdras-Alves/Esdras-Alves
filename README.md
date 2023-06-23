@@ -10,8 +10,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Esdras-Alves&hide=contribs,prs&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=c9d1d9&bg_color=transparent" alt="Esdras Alves github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdras-Alves&layout=compact&hide_border=true&title_color=0000FF&text_color=004cff&bg_color=transparent" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Esdras-Alves&hide=contribs,prs&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=c9d1d9&bg_color=00000000" alt="Esdras Alves github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdras-Alves&layout=compact&hide_border=true&title_color=0000FF&text_color=004cff&bg_color=00000000" />
 </div>
 
 
